@@ -10,5 +10,7 @@ npm-debug.*
 *.orig.*
 web-build/
 
+react-native-nft-marketplace
+
 # macOS
 .DS_Store
